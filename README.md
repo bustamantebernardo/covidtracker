@@ -1,3 +1,3 @@
 ## Covid Tracker App
 
-http://covidtrackerapp.netlify.com/
+Deployed at: http://covidtrackerapp.netlify.com/
